@@ -1,0 +1,10 @@
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe.config
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.exe
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\bin\Debug\StudentEnrollment.pdb
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csprojAssemblyReference.cache
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Form1.resources
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.Properties.Resources.resources
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.GenerateResource.cache
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.csproj.CoreCompileInputs.cache
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.exe
+C:\Users\sande\OneDrive\Desktop\Dot Net\StudentEnrollment\StudentEnrollment\obj\Debug\StudentEnrollment.pdb
